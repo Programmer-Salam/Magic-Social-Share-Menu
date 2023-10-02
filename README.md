@@ -19,7 +19,7 @@ Clone the Repository: Clone this repository to your local machine using the foll
 
 bash
 Copy code
-git clone https://github.com/your-username/Magic-social-share-menu.git
+git clone https://github.com/Programmer-Salam/Magic-Social-Share-Menu/.git
 Include the CSS and HTML: Copy the HTML and CSS code from the repository and paste it into your web project's HTML and CSS files.
 
 Customize: Customize the icons, colors, and placement of the social share menu according to your project's needs.
